@@ -57,6 +57,12 @@
         "com.microsoft.mixedreality.toolkit.foundation": "2.8.0"
       }
     },
+    "com.microsoft.spatialaudio.spatializer.unity": {
+      "version": "file:MixedReality/com.microsoft.spatialaudio.spatializer.unity-1.0.246.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
     "com.ptc.vuforia.engine": {
       "version": "file:com.ptc.vuforia.engine-10.7.2.tgz",
       "depth": 0,

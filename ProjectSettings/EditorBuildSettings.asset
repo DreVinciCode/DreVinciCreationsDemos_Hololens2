@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Vuforia_Scene.unity
-    guid: 1ca83d8f213a013458397a849c9a28ff
+    path: Assets/Scenes/SceneUnderstanding_Scene.unity
+    guid: b9451578a17dc4f4facc15a327fc2348
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 09c2e52933dfb9349966fcf10abc2ee5, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8870cd316e4c48a42ac7c26828d79b51, type: 2}
